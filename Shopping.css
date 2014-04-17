@@ -93,4 +93,9 @@ body{
 }
 
 #form{
-	width: 40%;	 
+	width: 40%;	 }
+
+
+#shoppingList ul {
+	text-align: center;
+}
